@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: com.influxdb:influxdb-client-java:1.5.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/influxdb/influxdb-client-java/1.5.0/influxdb-client-java-1.5.0.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/influxdb/influxdb-client-java/1.5.0/influxdb-client-java-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
